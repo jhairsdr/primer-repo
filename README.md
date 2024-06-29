@@ -1,2 +1,1 @@
-# primer-repo
-Repositorio de prueba de iJash
+prueba de como crear un repositorio y clonarlo en mi escritorio de manera local
